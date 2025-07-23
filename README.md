@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 # Привет, я Oksana 👋
 
